@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "114525834405",
+    "firebase_url": "https://youtubeproject-163017.firebaseio.com",
+    "project_id": "youtubeproject-163017",
+    "storage_bucket": "youtubeproject-163017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114525834405:android:e341f17e0807fce9",
+        "android_client_info": {
+          "package_name": "com.example.saddam.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114525834405-8m9m65v4idq5f6ojq3lpabts4879pkdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV6RKDamn1tofMGy785xV0ngiisBGwE50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
